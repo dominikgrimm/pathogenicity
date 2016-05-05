@@ -1,6 +1,13 @@
 # The evaluation of tools used to predict the impact of missense mutations is hindered by two types of circularity
 
-Manuscripts Authors: Dominik G. Grimm, Chloe Agathe Azencott, Fabian Aicheler, Udo Gieraths, Daniel G. MacArthur, Kaitlin E. Samocha, David N. Cooper, Peter D. Stenson, Mark J. Daly, Jordan W. Smoller, Laramie E. Duncan, Karsten M. Borgwardt
+This is the code to reproduce all findings from the following paper:
+
+Grimm, Dominik G., et al. "The evaluation of tools used to predict the impact of missense variants is hindered by two types of circularity." Human mutation 36.5 (2015): 513-523.
+http://onlinelibrary.wiley.com/doi/10.1002/humu.22768/full
+
+When using the code/data please cite out paper!
+
+
 
 ********************************
 Scripts to reproduce all figures
