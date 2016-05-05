@@ -24,18 +24,18 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-###########################
+*****
 1. Required Python Packages
-###########################
+*****
 
 numpy (>= 1.8.1)
 scipy (>= 0.10.0)
 matplotlib (>= 1.3.1)
 sklearn (>= 0.15.2)
 
-##########################
+*****
 2. Install Packages
-##########################
+*****
 
 Use the tool easy_install or pip to install the missing packages.
 
