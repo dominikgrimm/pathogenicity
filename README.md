@@ -24,24 +24,24 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-*****
-1. Required Python Packages
-*****
+********************************
+Required Python Packages
+********************************
 
 numpy (>= 1.8.1)
 scipy (>= 0.10.0)
 matplotlib (>= 1.3.1)
 sklearn (>= 0.15.2)
 
-*****
-2. Install Packages
-*****
+********************************
+Install Packages
+********************************
 
 Use the tool easy_install or pip to install the missing packages.
 
-##########################
-3. Run scripts
-##########################
+********************************
+Run scripts
+********************************
 
 Running the scripts to reproduce all figures and table.
 
@@ -52,9 +52,9 @@ Go to the terminal/bash, move to the DataS1 folder and type in the following com
 This will start the reproduction of all results
 
 
-##########################
-4. Archive Folder
-##########################
+********************************
+Archive Folder
+********************************
 
 > Output: Contains all Main and Supplementary Figures and Tables after executing the start.py script.
 
@@ -64,9 +64,9 @@ This will start the reproduction of all results
 
 > Scripts: Contains all nevessary Scripts to rerun all experiments and for plotting all figures. These scripts are executed when start.py is called
 
-##################################################
-5. Header Explanation for Data files in ToolScores
-##################################################
+********************************
+Header Explanation for Data files in ToolScores
+********************************
 
 The first row is the header!
 Each row contains one variant and the tool-scores and predicted labels for different tools
